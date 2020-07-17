@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKunune%2Fhit-counter)](https://hits.seeyoufarm.com)
+
 ### I'm Larry and 23 years old. 👋
 
 😊 I started coding since I was a junior high school student, and now I'm completely settled in the Javascript language.
