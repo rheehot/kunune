@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKunune%2Fhit-counter)](https://hits.seeyoufarm.com)
-
 ### I'm Larry and 23 years old. 👋
 
 😊 I started coding since I was a junior high school student, and now I'm completely settled in the Javascript language.
@@ -7,6 +5,10 @@
 📚 While creating [my own web service](https://mo-gak-ko.xyz), I was able to experience the whole web's operation in person.
 
 🧡 I'm into Javascript and Typescript, React, Node.js, GraphQL.
+
+<div align=center>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKunune%2Fhit-counter)](https://hits.seeyoufarm.com)
+</div>
 
 <!--
 **Kunune/kunune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
