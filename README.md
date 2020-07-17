@@ -1,4 +1,4 @@
-### I'm Larry and 23 years old.
+### I'm Larry and 23 years old. 👋
 
 😊 I started coding since I was a junior high school student, and now I'm completely settled in the Javascript language.
 
