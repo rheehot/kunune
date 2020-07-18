@@ -2,7 +2,7 @@
 
 😊 I started coding since I was a junior high school student, and now I'm completely settled in the Javascript language.
 
-📚 While creating [my own web service](https://mo-gak-ko.xyz), I was able to experience the whole web's operation in person.
+📚 While making [my own web service](https://mo-gak-ko.xyz), I was able to experience the whole web's operation in person.
 
 🧡 I'm into Javascript and Typescript, React, Node.js, GraphQL.
 
