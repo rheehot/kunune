@@ -7,7 +7,7 @@
 🧡 I'm into Javascript and Typescript, React, Node.js, GraphQL.
 
 ---
-
+📧 [mailto](mailto:jhj46456@gmail.com)
 💻 [Larry's blog](https://velog.io/@jhj46456)
 
 <!--
