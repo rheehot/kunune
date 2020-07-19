@@ -3,7 +3,7 @@
 😊 I started coding since I was a 16 years old, and now I'm completely settled in the Javascript language.
 
 📚 While making [my own web service](https://mo-gak-ko.xyz), I was able to experience the whole web's operation in person.
-> Related keywards : Domain, NS, DNS Record, A-type, Cloud VM, Linux, Process management
+> Related keywards : Domain, NS, DNS Record, A-type, Cloud VM, Linux, Process management, 
 
 🧡 I'm into Javascript and Typescript, React, Node.js, GraphQL.
 
