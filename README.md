@@ -6,6 +6,10 @@
 
 🧡 I'm into Javascript and Typescript, React, Node.js, GraphQL.
 
+---
+
+💻 [Larry's blog](https://velog.io/@jhj46456)
+
 <!--
 **Kunune/kunune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
