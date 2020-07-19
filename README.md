@@ -1,6 +1,6 @@
 ### Hi, I'm Larry. 👋
 
-😊 I started coding since I was a junior high school student, and now I'm completely settled in the Javascript language.
+😊 I started coding since I was a 16 years old, and now I'm completely settled in the Javascript language.
 
 📚 While making [my own web service](https://mo-gak-ko.xyz), I was able to experience the whole web's operation in person.
 
