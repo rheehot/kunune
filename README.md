@@ -7,8 +7,10 @@
 
 🧡 I'm into Javascript and Typescript, React, Node.js, GraphQL.
 
+![Github status](https://github-readme-stats.vercel.app/api?username=Kunune&show_icons=true&hide_border=true)
+
 ---
-📧 [Larry's email](mailto:jhj46456@gmail.com)
+📧 [email to Larry](mailto:jhj46456@gmail.com)
 
 💻 [Larry's blog](https://velog.io/@jhj46456)
 
