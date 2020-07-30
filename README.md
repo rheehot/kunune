@@ -7,12 +7,12 @@
 
 🧡 I'm into Javascript and Typescript, React, Node.js, GraphQL.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunune&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Github status](https://github-readme-stats.vercel.app/api?username=Kunune&show_icons=true&hide_border=true)
 
 ---
 📧 [email to Larry](mailto:jhj46456@gmail.com)
-
-💻 [Larry's blog](https://velog.io/@jhj46456)
 
 <!--
 **Kunune/kunune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
