@@ -10,9 +10,9 @@
 <img width="30" src="https://user-images.githubusercontent.com/46839654/89102726-dbe15b80-d446-11ea-84f3-419f46217e2e.png" />
 <img width="30" src="https://user-images.githubusercontent.com/46839654/89102762-2c58b900-d447-11ea-9e0c-184e20a1ecd4.png" />
 <img width="30" src="https://user-images.githubusercontent.com/46839654/89102727-dc79f200-d446-11ea-9d2c-c8fab59a7c96.png" />
-<img width="30" src="https://user-images.githubusercontent.com/46839654/89102722-d84dd480-d446-11ea-8e9a-abd2851b6dbd.png" />
 <img width="30" src="https://user-images.githubusercontent.com/46839654/89102725-db48c500-d446-11ea-9767-d97a0ac6d825.png" />
 <img width="30" src="https://user-images.githubusercontent.com/46839654/89102721-d7b53e00-d446-11ea-9c2c-e317871c1a69.png" />
+<img width="30" src="https://user-images.githubusercontent.com/46839654/89102722-d84dd480-d446-11ea-8e9a-abd2851b6dbd.png" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunune&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Github status](https://github-readme-stats.vercel.app/api?username=Kunune&show_icons=true&hide_border=true)
