@@ -5,7 +5,9 @@
 📚 While making [my own web service](https://mo-gak-ko.xyz), I was able to experience the whole web's operation in person.
 > Related keywards : Domain, NS, DNS Record, A-type, VPS, Linux, Process Management, API...
 
-🧡 I'm into Javascript and Typescript, React, Node.js, GraphQL.
+🧡 I'm into 
+<img width="20" src="https://user-images.githubusercontent.com/46839654/89102723-d8e66b00-d446-11ea-9d23-66a6f88ac664.png" />
+<img width="20" src="https://user-images.githubusercontent.com/46839654/89102726-dbe15b80-d446-11ea-84f3-419f46217e2e.png" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunune&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
