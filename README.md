@@ -15,7 +15,6 @@
 <img width="30" src="https://user-images.githubusercontent.com/46839654/89102721-d7b53e00-d446-11ea-9c2c-e317871c1a69.png" />  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunune&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Github status](https://github-readme-stats.vercel.app/api?username=Kunune&show_icons=true&hide_border=true)
 
 ---
