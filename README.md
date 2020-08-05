@@ -18,7 +18,7 @@
 ![Github status](https://github-readme-stats.vercel.app/api?username=Kunune&show_icons=true&hide_border=true)
 
 ---
-📧 [email to him](mailto:jhj46456@gmail.com)
+📧 [I'd like to email to him](mailto:jhj46456@gmail.com)
 
 <!--
 **Kunune/kunune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
